@@ -40,3 +40,8 @@ HYFU-GPU-Server采用依瞳AI平台（介绍见pdf文件）进行计算资源调
     
 ### 6. 修改ssh密码
     sudo passwd username
+    
+### 7. VSCode Remote 
+  a) VSCode editor: https://code.visualstudio.com/
+  
+  b) VSCode Remote 远程开发与调试: https://www.jianshu.com/p/0f2fb935a9a1
