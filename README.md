@@ -9,7 +9,7 @@ HYFU-GPU-Server采用依瞳AI平台（介绍见pdf文件）进行计算资源调
 ==============
 
 ### 1. 代码开发 --> 创建开发环境 --> SSH/Jupyter --> 进入服务器
-  a) 引擎类型推荐选择horovod, 多GPU分布式运行程序参考 https://horovod.ai/getting-started/
+  a) 引擎类型推荐选择horovod, 多GPU分布式运行程序参考: https://horovod.ai/getting-started/
   
   b) 创建的开发环境最好一直运行中，否则再次创建还需要重新配置网络
   
